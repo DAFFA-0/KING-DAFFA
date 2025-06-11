@@ -60,7 +60,7 @@ cmd({
                 return await conn.sendMessage(
                     from,
                     {
-                        image: { url: config.MENU_IMAGE_URL || 'https://files.catbox.moe/7zfdcq.jpg' },
+                        image: { url: config.MENU_IMAGE_URL || 'https://ibb.co/SD3QVryD' },
                         caption: menuCaption,
                         contextInfo: contextInfo
                     },
