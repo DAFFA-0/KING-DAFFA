@@ -13,7 +13,13 @@ cmd({
 },
 async (conn, mek, m, { from, sender, reply }) => {
     try {
-        const status = `*DAFFA MD ALIVE NOW*`;
+        const status = `𝐃𝐀𝐅𝐅𝐀 𝐌𝐃 𝐈𝐒 𝐀𝐋𝐈𝐕𝐄 𝐍𝐎𝐖 👋"
+
+𝐇𝐎𝐖 𝐂𝐀𝐍 𝐈 𝐇𝐄𝐋𝐏 𝐘𝐎𝐔 𝐓𝐎𝐃𝐀𝐘 ⚔
+
+*හායි, මම ඔන්ලයින් ඔබට උදව් කරන්නෙ කෙසේද මම ⚔*
+        
+        `;
 
         await conn.sendMessage(from, {
             image: { url: config.MENU_IMAGE_URL },
@@ -23,8 +29,8 @@ async (conn, mek, m, { from, sender, reply }) => {
                 forwardingScore: 1000,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363354023106228@newsletter',
-                    newsletterName: 'JawadTechX',
+                    newsletterJid: '12228@newsletter',
+                    newsletterName: 'ＤＡＦＦＡ 囧',
                     serverMessageId: 143
                 }
             }
