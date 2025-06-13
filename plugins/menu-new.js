@@ -48,7 +48,7 @@ cmd({
             forwardingScore: 999,
             isForwarded: true,
             forwardedNewsletterMessageInfo: {
-                newsletterJid: '120363354023106228@newsletter',
+                newsletterJid: '120306228@newsletter',
                 newsletterName: config.OWNER_NAME,
                 serverMessageId: 143
             }
@@ -60,7 +60,7 @@ cmd({
                 return await conn.sendMessage(
                     from,
                     {
-                        image: { url: config.MENU_IMAGE_URL || 'https://ibb.co/SD3QVryD' },
+                        image: { url: config.MENU_IMAGE_URL || 'https://ibb.co/c4sW0Rb' },
                         caption: menuCaption,
                         contextInfo: contextInfo
                     },
