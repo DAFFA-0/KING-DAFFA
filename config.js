@@ -13,7 +13,7 @@ AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
 // make true if you want auto reply on status 
 AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
 // make true if you want auto reply on status 
-AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY KHAN-MD 🤍*",
+AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*ඔයාගේ ස්ටේටස් එක මම මුලින්ම බැලුවා එක හරිම ලස්සනයි 𝐡𝐚𝐥𝐨𝐰 🤗❤️"*",
 // set the auto reply massage on status reply  
 ANTI_DELETE: process.env.ANTI_DELETE || "true",
 // set true false for anti delete     
@@ -47,9 +47,9 @@ OWNER_NAME: process.env.OWNER_NAME || "Jᴀᴡᴀᴅ TᴇᴄʜX",
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "*DAFFA-MD*",
 // add bot owner name    
-ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/149k8x.jpg",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://ibb.co/c4sW0Rb",
 // add img for alive msg
-LIVE_MSG: process.env.LIVE_MSG || "> Zinda Hun Yar *DAFFA-MD*⚡",
+LIVE_MSG: process.env.LIVE_MSG || "𝐃𝐀𝐅𝐅𝐀 𝐌𝐃 𝐈𝐒 𝐀𝐋𝐈𝐕𝐄 𝐍𝐎𝐖 👋/n/n𝐇𝐎𝐖 𝐂𝐀𝐍 𝐈 𝐇𝐄𝐋𝐏 𝐘𝐎𝐔 𝐓𝐎𝐃𝐀𝐘 ⚔/n/n*හායි, මම ඔන්ලයින් ඔබට උදව් කරන්නෙ කෙසේද මම ⚔*",
 // add alive msg here 
 READ_MESSAGE: process.env.READ_MESSAGE || "false",
 // Turn true or false for automatic read msgs
@@ -73,7 +73,7 @@ AUTO_TYPING: process.env.AUTO_TYPING || "false",
 // true for automatic show typing   
 READ_CMD: process.env.READ_CMD || "false",
 // true if want mark commands as read 
-DEV: process.env.DEV || "923427582273",
+DEV: process.env.DEV || "94723896912",
 //replace with your whatsapp number        
 ANTI_VV: process.env.ANTI_VV || "true",
 // true for anti once view 
